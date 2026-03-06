@@ -1,0 +1,1502 @@
+[
+    {
+        "nome": "Andorra",
+        "capital": "Andorra la Vella",
+        "populacao": 84000,
+        "area": 468.0
+    },
+    {
+        "nome": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "populacao": 4975593,
+        "area": 82880.0
+    },
+    {
+        "nome": "Afghanistan",
+        "capital": "Kabul",
+        "populacao": 29121286,
+        "area": 647500.0
+    },
+    {
+        "nome": "Antigua and Barbuda",
+        "capital": "St. John's",
+        "populacao": 86754,
+        "area": 443.0
+    },
+    {
+        "nome": "Anguilla",
+        "capital": "The Valley",
+        "populacao": 13254,
+        "area": 102.0
+    },
+    {
+        "nome": "Albania",
+        "capital": "Tirana",
+        "populacao": 2986952,
+        "area": 28748.0
+    },
+    {
+        "nome": "Armenia",
+        "capital": "Yerevan",
+        "populacao": 2968000,
+        "area": 29800.0
+    },
+    {
+        "nome": "Angola",
+        "capital": "Luanda",
+        "populacao": 13068161,
+        "area": 1246700.0
+    },
+    {
+        "nome": "Antarctica",
+        "capital": "None",
+        "populacao": 0,
+        "area": 14000000.0
+    },
+    {
+        "nome": "Argentina",
+        "capital": "Buenos Aires",
+        "populacao": 41343201,
+        "area": 2766890.0
+    },
+    {
+        "nome": "American Samoa",
+        "capital": "Pago Pago",
+        "populacao": 57881,
+        "area": 199.0
+    },
+    {
+        "nome": "Austria",
+        "capital": "Vienna",
+        "populacao": 8205000,
+        "area": 83858.0
+    },
+    {
+        "nome": "Australia",
+        "capital": "Canberra",
+        "populacao": 21515754,
+        "area": 7686850.0
+    },
+    {
+        "nome": "Aruba",
+        "capital": "Oranjestad",
+        "populacao": 71566,
+        "area": 193.0
+    },
+    {
+        "nome": "\u00c5land",
+        "capital": "Mariehamn",
+        "populacao": 26711,
+        "area": 1580.0
+    },
+    {
+        "nome": "Azerbaijan",
+        "capital": "Baku",
+        "populacao": 8303512,
+        "area": 86600.0
+    },
+    {
+        "nome": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "populacao": 4590000,
+        "area": 51129.0
+    },
+    {
+        "nome": "Barbados",
+        "capital": "Bridgetown",
+        "populacao": 285653,
+        "area": 431.0
+    },
+    {
+        "nome": "Bangladesh",
+        "capital": "Dhaka",
+        "populacao": 156118464,
+        "area": 144000.0
+    },
+    {
+        "nome": "Belgium",
+        "capital": "Brussels",
+        "populacao": 10403000,
+        "area": 30510.0
+    },
+    {
+        "nome": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "populacao": 16241811,
+        "area": 274200.0
+    },
+    {
+        "nome": "Bulgaria",
+        "capital": "Sofia",
+        "populacao": 7148785,
+        "area": 110910.0
+    },
+    {
+        "nome": "Bahrain",
+        "capital": "Manama",
+        "populacao": 738004,
+        "area": 665.0
+    },
+    {
+        "nome": "Burundi",
+        "capital": "Bujumbura",
+        "populacao": 9863117,
+        "area": 27830.0
+    },
+    {
+        "nome": "Benin",
+        "capital": "Porto-Novo",
+        "populacao": 9056010,
+        "area": 112620.0
+    },
+    {
+        "nome": "Saint Barth\u00e9lemy",
+        "capital": "Gustavia",
+        "populacao": 8450,
+        "area": 21.0
+    },
+    {
+        "nome": "Bermuda",
+        "capital": "Hamilton",
+        "populacao": 65365,
+        "area": 53.0
+    },
+    {
+        "nome": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "populacao": 395027,
+        "area": 5770.0
+    },
+    {
+        "nome": "Bolivia",
+        "capital": "Sucre",
+        "populacao": 9947418,
+        "area": 1098580.0
+    },
+    {
+        "nome": "Bonaire",
+        "capital": "Kralendijk",
+        "populacao": 18012,
+        "area": 328.0
+    },
+    {
+        "nome": "Brazil",
+        "capital": "Bras\u00edlia",
+        "populacao": 201103330,
+        "area": 8511965.0
+    },
+    {
+        "nome": "Bahamas",
+        "capital": "Nassau",
+        "populacao": 301790,
+        "area": 13940.0
+    },
+    {
+        "nome": "Bhutan",
+        "capital": "Thimphu",
+        "populacao": 699847,
+        "area": 47000.0
+    },
+    {
+        "nome": "Bouvet Island",
+        "capital": "None",
+        "populacao": 0,
+        "area": 49.0
+    },
+    {
+        "nome": "Botswana",
+        "capital": "Gaborone",
+        "populacao": 2029307,
+        "area": 600370.0
+    },
+    {
+        "nome": "Belarus",
+        "capital": "Minsk",
+        "populacao": 9685000,
+        "area": 207600.0
+    },
+    {
+        "nome": "Belize",
+        "capital": "Belmopan",
+        "populacao": 314522,
+        "area": 22966.0
+    },
+    {
+        "nome": "Canada",
+        "capital": "Ottawa",
+        "populacao": 33679000,
+        "area": 9984670.0
+    },
+    {
+        "nome": "Cocos [Keeling] Islands",
+        "capital": "West Island",
+        "populacao": 628,
+        "area": 14.0
+    },
+    {
+        "nome": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "populacao": 70916439,
+        "area": 2345410.0
+    },
+    {
+        "nome": "Central African Republic",
+        "capital": "Bangui",
+        "populacao": 4844927,
+        "area": 622984.0
+    },
+    {
+        "nome": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "populacao": 3039126,
+        "area": 342000.0
+    },
+    {
+        "nome": "Switzerland",
+        "capital": "Bern",
+        "populacao": 7581000,
+        "area": 41290.0
+    },
+    {
+        "nome": "Ivory Coast",
+        "capital": "Yamoussoukro",
+        "populacao": 21058798,
+        "area": 322460.0
+    },
+    {
+        "nome": "Cook Islands",
+        "capital": "Avarua",
+        "populacao": 21388,
+        "area": 240.0
+    },
+    {
+        "nome": "Chile",
+        "capital": "Santiago",
+        "populacao": 16746491,
+        "area": 756950.0
+    },
+    {
+        "nome": "Cameroon",
+        "capital": "Yaound\u00e9",
+        "populacao": 19294149,
+        "area": 475440.0
+    },
+    {
+        "nome": "China",
+        "capital": "Beijing",
+        "populacao": 1330044000,
+        "area": 9596960.0
+    },
+    {
+        "nome": "Colombia",
+        "capital": "Bogot\u00e1",
+        "populacao": 47790000,
+        "area": 1138910.0
+    },
+    {
+        "nome": "Costa Rica",
+        "capital": "San Jos\u00e9",
+        "populacao": 4516220,
+        "area": 51100.0
+    },
+    {
+        "nome": "Cuba",
+        "capital": "Havana",
+        "populacao": 11423000,
+        "area": 110860.0
+    },
+    {
+        "nome": "Cape Verde",
+        "capital": "Praia",
+        "populacao": 508659,
+        "area": 4033.0
+    },
+    {
+        "nome": "Curacao",
+        "capital": "Willemstad",
+        "populacao": 141766,
+        "area": 444.0
+    },
+    {
+        "nome": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "populacao": 1500,
+        "area": 135.0
+    },
+    {
+        "nome": "Cyprus",
+        "capital": "Nicosia",
+        "populacao": 1102677,
+        "area": 9250.0
+    },
+    {
+        "nome": "Czech Republic",
+        "capital": "Prague",
+        "populacao": 10476000,
+        "area": 78866.0
+    },
+    {
+        "nome": "Germany",
+        "capital": "Berlin",
+        "populacao": 81802257,
+        "area": 357021.0
+    },
+    {
+        "nome": "Djibouti",
+        "capital": "Djibouti",
+        "populacao": 740528,
+        "area": 23000.0
+    },
+    {
+        "nome": "Denmark",
+        "capital": "Copenhagen",
+        "populacao": 5484000,
+        "area": 43094.0
+    },
+    {
+        "nome": "Dominica",
+        "capital": "Roseau",
+        "populacao": 72813,
+        "area": 754.0
+    },
+    {
+        "nome": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "populacao": 9823821,
+        "area": 48730.0
+    },
+    {
+        "nome": "Algeria",
+        "capital": "Algiers",
+        "populacao": 34586184,
+        "area": 2381740.0
+    },
+    {
+        "nome": "Ecuador",
+        "capital": "Quito",
+        "populacao": 14790608,
+        "area": 283560.0
+    },
+    {
+        "nome": "Estonia",
+        "capital": "Tallinn",
+        "populacao": 1291170,
+        "area": 45226.0
+    },
+    {
+        "nome": "Egypt",
+        "capital": "Cairo",
+        "populacao": 80471869,
+        "area": 1001450.0
+    },
+    {
+        "nome": "Western Sahara",
+        "capital": "La\u00e2youne / El Aai\u00fan",
+        "populacao": 273008,
+        "area": 266000.0
+    },
+    {
+        "nome": "Eritrea",
+        "capital": "Asmara",
+        "populacao": 5792984,
+        "area": 121320.0
+    },
+    {
+        "nome": "Spain",
+        "capital": "Madrid",
+        "populacao": 46505963,
+        "area": 504782.0
+    },
+    {
+        "nome": "Ethiopia",
+        "capital": "Addis Ababa",
+        "populacao": 88013491,
+        "area": 1127127.0
+    },
+    {
+        "nome": "Finland",
+        "capital": "Helsinki",
+        "populacao": 5244000,
+        "area": 337030.0
+    },
+    {
+        "nome": "Fiji",
+        "capital": "Suva",
+        "populacao": 875983,
+        "area": 18270.0
+    },
+    {
+        "nome": "Falkland Islands",
+        "capital": "Stanley",
+        "populacao": 2638,
+        "area": 12173.0
+    },
+    {
+        "nome": "Micronesia",
+        "capital": "Palikir",
+        "populacao": 107708,
+        "area": 702.0
+    },
+    {
+        "nome": "Faroe Islands",
+        "capital": "T\u00f3rshavn",
+        "populacao": 48228,
+        "area": 1399.0
+    },
+    {
+        "nome": "France",
+        "capital": "Paris",
+        "populacao": 64768389,
+        "area": 547030.0
+    },
+    {
+        "nome": "Gabon",
+        "capital": "Libreville",
+        "populacao": 1545255,
+        "area": 267667.0
+    },
+    {
+        "nome": "United Kingdom",
+        "capital": "London",
+        "populacao": 62348447,
+        "area": 244820.0
+    },
+    {
+        "nome": "Grenada",
+        "capital": "St. George's",
+        "populacao": 107818,
+        "area": 344.0
+    },
+    {
+        "nome": "Georgia",
+        "capital": "Tbilisi",
+        "populacao": 4630000,
+        "area": 69700.0
+    },
+    {
+        "nome": "French Guiana",
+        "capital": "Cayenne",
+        "populacao": 195506,
+        "area": 91000.0
+    },
+    {
+        "nome": "Guernsey",
+        "capital": "St Peter Port",
+        "populacao": 65228,
+        "area": 78.0
+    },
+    {
+        "nome": "Ghana",
+        "capital": "Accra",
+        "populacao": 24339838,
+        "area": 239460.0
+    },
+    {
+        "nome": "Gibraltar",
+        "capital": "Gibraltar",
+        "populacao": 27884,
+        "area": 6.5
+    },
+    {
+        "nome": "Greenland",
+        "capital": "Nuuk",
+        "populacao": 56375,
+        "area": 2166086.0
+    },
+    {
+        "nome": "Gambia",
+        "capital": "Bathurst",
+        "populacao": 1593256,
+        "area": 11300.0
+    },
+    {
+        "nome": "Guinea",
+        "capital": "Conakry",
+        "populacao": 10324025,
+        "area": 245857.0
+    },
+    {
+        "nome": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "populacao": 443000,
+        "area": 1780.0
+    },
+    {
+        "nome": "Equatorial Guinea",
+        "capital": "Malabo",
+        "populacao": 1014999,
+        "area": 28051.0
+    },
+    {
+        "nome": "Greece",
+        "capital": "Athens",
+        "populacao": 11000000,
+        "area": 131940.0
+    },
+    {
+        "nome": "South Georgia and the South Sandwich Islands",
+        "capital": "Grytviken",
+        "populacao": 30,
+        "area": 3903.0
+    },
+    {
+        "nome": "Guatemala",
+        "capital": "Guatemala City",
+        "populacao": 13550440,
+        "area": 108890.0
+    },
+    {
+        "nome": "Guam",
+        "capital": "Hag\u00e5t\u00f1a",
+        "populacao": 159358,
+        "area": 549.0
+    },
+    {
+        "nome": "Guinea-Bissau",
+        "capital": "Bissau",
+        "populacao": 1565126,
+        "area": 36120.0
+    },
+    {
+        "nome": "Guyana",
+        "capital": "Georgetown",
+        "populacao": 748486,
+        "area": 214970.0
+    },
+    {
+        "nome": "Hong Kong",
+        "capital": "Hong Kong",
+        "populacao": 6898686,
+        "area": 1092.0
+    },
+    {
+        "nome": "Heard Island and McDonald Islands",
+        "capital": "None",
+        "populacao": 0,
+        "area": 412.0
+    },
+    {
+        "nome": "Honduras",
+        "capital": "Tegucigalpa",
+        "populacao": 7989415,
+        "area": 112090.0
+    },
+    {
+        "nome": "Croatia",
+        "capital": "Zagreb",
+        "populacao": 4491000,
+        "area": 56542.0
+    },
+    {
+        "nome": "Haiti",
+        "capital": "Port-au-Prince",
+        "populacao": 9648924,
+        "area": 27750.0
+    },
+    {
+        "nome": "Hungary",
+        "capital": "Budapest",
+        "populacao": 9982000,
+        "area": 93030.0
+    },
+    {
+        "nome": "Indonesia",
+        "capital": "Jakarta",
+        "populacao": 242968342,
+        "area": 1919440.0
+    },
+    {
+        "nome": "Ireland",
+        "capital": "Dublin",
+        "populacao": 4622917,
+        "area": 70280.0
+    },
+    {
+        "nome": "Israel",
+        "capital": "None",
+        "populacao": 7353985,
+        "area": 20770.0
+    },
+    {
+        "nome": "Isle of Man",
+        "capital": "Douglas",
+        "populacao": 75049,
+        "area": 572.0
+    },
+    {
+        "nome": "India",
+        "capital": "New Delhi",
+        "populacao": 1173108018,
+        "area": 3287590.0
+    },
+    {
+        "nome": "British Indian Ocean Territory",
+        "capital": "None",
+        "populacao": 4000,
+        "area": 60.0
+    },
+    {
+        "nome": "Iraq",
+        "capital": "Baghdad",
+        "populacao": 29671605,
+        "area": 437072.0
+    },
+    {
+        "nome": "Iran",
+        "capital": "Tehran",
+        "populacao": 76923300,
+        "area": 1648000.0
+    },
+    {
+        "nome": "Iceland",
+        "capital": "Reykjavik",
+        "populacao": 308910,
+        "area": 103000.0
+    },
+    {
+        "nome": "Italy",
+        "capital": "Rome",
+        "populacao": 60340328,
+        "area": 301230.0
+    },
+    {
+        "nome": "Jersey",
+        "capital": "Saint Helier",
+        "populacao": 90812,
+        "area": 116.0
+    },
+    {
+        "nome": "Jamaica",
+        "capital": "Kingston",
+        "populacao": 2847232,
+        "area": 10991.0
+    },
+    {
+        "nome": "Jordan",
+        "capital": "Amman",
+        "populacao": 6407085,
+        "area": 92300.0
+    },
+    {
+        "nome": "Japan",
+        "capital": "Tokyo",
+        "populacao": 127288000,
+        "area": 377835.0
+    },
+    {
+        "nome": "Kenya",
+        "capital": "Nairobi",
+        "populacao": 40046566,
+        "area": 582650.0
+    },
+    {
+        "nome": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "populacao": 5776500,
+        "area": 198500.0
+    },
+    {
+        "nome": "Cambodia",
+        "capital": "Phnom Penh",
+        "populacao": 14453680,
+        "area": 181040.0
+    },
+    {
+        "nome": "Kiribati",
+        "capital": "Tarawa",
+        "populacao": 92533,
+        "area": 811.0
+    },
+    {
+        "nome": "Comoros",
+        "capital": "Moroni",
+        "populacao": 773407,
+        "area": 2170.0
+    },
+    {
+        "nome": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "populacao": 51134,
+        "area": 261.0
+    },
+    {
+        "nome": "North Korea",
+        "capital": "Pyongyang",
+        "populacao": 22912177,
+        "area": 120540.0
+    },
+    {
+        "nome": "South Korea",
+        "capital": "Seoul",
+        "populacao": 48422644,
+        "area": 98480.0
+    },
+    {
+        "nome": "Kuwait",
+        "capital": "Kuwait City",
+        "populacao": 2789132,
+        "area": 17820.0
+    },
+    {
+        "nome": "Cayman Islands",
+        "capital": "George Town",
+        "populacao": 44270,
+        "area": 262.0
+    },
+    {
+        "nome": "Kazakhstan",
+        "capital": "Astana",
+        "populacao": 15340000,
+        "area": 2717300.0
+    },
+    {
+        "nome": "Laos",
+        "capital": "Vientiane",
+        "populacao": 6368162,
+        "area": 236800.0
+    },
+    {
+        "nome": "Lebanon",
+        "capital": "Beirut",
+        "populacao": 4125247,
+        "area": 10400.0
+    },
+    {
+        "nome": "Saint Lucia",
+        "capital": "Castries",
+        "populacao": 160922,
+        "area": 616.0
+    },
+    {
+        "nome": "Liechtenstein",
+        "capital": "Vaduz",
+        "populacao": 35000,
+        "area": 160.0
+    },
+    {
+        "nome": "Sri Lanka",
+        "capital": "Colombo",
+        "populacao": 21513990,
+        "area": 65610.0
+    },
+    {
+        "nome": "Liberia",
+        "capital": "Monrovia",
+        "populacao": 3685076,
+        "area": 111370.0
+    },
+    {
+        "nome": "Lesotho",
+        "capital": "Maseru",
+        "populacao": 1919552,
+        "area": 30355.0
+    },
+    {
+        "nome": "Lithuania",
+        "capital": "Vilnius",
+        "populacao": 2944459,
+        "area": 65200.0
+    },
+    {
+        "nome": "Luxembourg",
+        "capital": "Luxembourg",
+        "populacao": 497538,
+        "area": 2586.0
+    },
+    {
+        "nome": "Latvia",
+        "capital": "Riga",
+        "populacao": 2217969,
+        "area": 64589.0
+    },
+    {
+        "nome": "Libya",
+        "capital": "Tripoli",
+        "populacao": 6461454,
+        "area": 1759540.0
+    },
+    {
+        "nome": "Morocco",
+        "capital": "Rabat",
+        "populacao": 31627428,
+        "area": 446550.0
+    },
+    {
+        "nome": "Monaco",
+        "capital": "Monaco",
+        "populacao": 32965,
+        "area": 1.95
+    },
+    {
+        "nome": "Moldova",
+        "capital": "Chi\u015fin\u0103u",
+        "populacao": 4324000,
+        "area": 33843.0
+    },
+    {
+        "nome": "Montenegro",
+        "capital": "Podgorica",
+        "populacao": 666730,
+        "area": 14026.0
+    },
+    {
+        "nome": "Saint Martin",
+        "capital": "Marigot",
+        "populacao": 35925,
+        "area": 53.0
+    },
+    {
+        "nome": "Madagascar",
+        "capital": "Antananarivo",
+        "populacao": 21281844,
+        "area": 587040.0
+    },
+    {
+        "nome": "Marshall Islands",
+        "capital": "Majuro",
+        "populacao": 65859,
+        "area": 181.3
+    },
+    {
+        "nome": "Macedonia",
+        "capital": "Skopje",
+        "populacao": 2062294,
+        "area": 25333.0
+    },
+    {
+        "nome": "Mali",
+        "capital": "Bamako",
+        "populacao": 13796354,
+        "area": 1240000.0
+    },
+    {
+        "nome": "Myanmar [Burma]",
+        "capital": "Naypyitaw",
+        "populacao": 53414374,
+        "area": 678500.0
+    },
+    {
+        "nome": "Mongolia",
+        "capital": "Ulan Bator",
+        "populacao": 3086918,
+        "area": 1565000.0
+    },
+    {
+        "nome": "Macao",
+        "capital": "Macao",
+        "populacao": 449198,
+        "area": 254.0
+    },
+    {
+        "nome": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "populacao": 53883,
+        "area": 477.0
+    },
+    {
+        "nome": "Martinique",
+        "capital": "Fort-de-France",
+        "populacao": 432900,
+        "area": 1100.0
+    },
+    {
+        "nome": "Mauritania",
+        "capital": "Nouakchott",
+        "populacao": 3205060,
+        "area": 1030700.0
+    },
+    {
+        "nome": "Montserrat",
+        "capital": "Plymouth",
+        "populacao": 9341,
+        "area": 102.0
+    },
+    {
+        "nome": "Malta",
+        "capital": "Valletta",
+        "populacao": 403000,
+        "area": 316.0
+    },
+    {
+        "nome": "Mauritius",
+        "capital": "Port Louis",
+        "populacao": 1294104,
+        "area": 2040.0
+    },
+    {
+        "nome": "Maldives",
+        "capital": "Mal\u00e9",
+        "populacao": 395650,
+        "area": 300.0
+    },
+    {
+        "nome": "Malawi",
+        "capital": "Lilongwe",
+        "populacao": 15447500,
+        "area": 118480.0
+    },
+    {
+        "nome": "Mexico",
+        "capital": "Mexico City",
+        "populacao": 112468855,
+        "area": 1972550.0
+    },
+    {
+        "nome": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "populacao": 28274729,
+        "area": 329750.0
+    },
+    {
+        "nome": "Mozambique",
+        "capital": "Maputo",
+        "populacao": 22061451,
+        "area": 801590.0
+    },
+    {
+        "nome": "Namibia",
+        "capital": "Windhoek",
+        "populacao": 2128471,
+        "area": 825418.0
+    },
+    {
+        "nome": "New Caledonia",
+        "capital": "Noumea",
+        "populacao": 216494,
+        "area": 19060.0
+    },
+    {
+        "nome": "Niger",
+        "capital": "Niamey",
+        "populacao": 15878271,
+        "area": 1267000.0
+    },
+    {
+        "nome": "Norfolk Island",
+        "capital": "Kingston",
+        "populacao": 1828,
+        "area": 34.6
+    },
+    {
+        "nome": "Nigeria",
+        "capital": "Abuja",
+        "populacao": 154000000,
+        "area": 923768.0
+    },
+    {
+        "nome": "Nicaragua",
+        "capital": "Managua",
+        "populacao": 5995928,
+        "area": 129494.0
+    },
+    {
+        "nome": "Netherlands",
+        "capital": "Amsterdam",
+        "populacao": 16645000,
+        "area": 41526.0
+    },
+    {
+        "nome": "Norway",
+        "capital": "Oslo",
+        "populacao": 5009150,
+        "area": 324220.0
+    },
+    {
+        "nome": "Nepal",
+        "capital": "Kathmandu",
+        "populacao": 28951852,
+        "area": 140800.0
+    },
+    {
+        "nome": "Nauru",
+        "capital": "Yaren",
+        "populacao": 10065,
+        "area": 21.0
+    },
+    {
+        "nome": "Niue",
+        "capital": "Alofi",
+        "populacao": 2166,
+        "area": 260.0
+    },
+    {
+        "nome": "New Zealand",
+        "capital": "Wellington",
+        "populacao": 4252277,
+        "area": 268680.0
+    },
+    {
+        "nome": "Oman",
+        "capital": "Muscat",
+        "populacao": 2967717,
+        "area": 212460.0
+    },
+    {
+        "nome": "Panama",
+        "capital": "Panama City",
+        "populacao": 3410676,
+        "area": 78200.0
+    },
+    {
+        "nome": "Peru",
+        "capital": "Lima",
+        "populacao": 29907003,
+        "area": 1285220.0
+    },
+    {
+        "nome": "French Polynesia",
+        "capital": "Papeete",
+        "populacao": 270485,
+        "area": 4167.0
+    },
+    {
+        "nome": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "populacao": 6064515,
+        "area": 462840.0
+    },
+    {
+        "nome": "Philippines",
+        "capital": "Manila",
+        "populacao": 99900177,
+        "area": 300000.0
+    },
+    {
+        "nome": "Pakistan",
+        "capital": "Islamabad",
+        "populacao": 184404791,
+        "area": 803940.0
+    },
+    {
+        "nome": "Poland",
+        "capital": "Warsaw",
+        "populacao": 38500000,
+        "area": 312685.0
+    },
+    {
+        "nome": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "populacao": 7012,
+        "area": 242.0
+    },
+    {
+        "nome": "Pitcairn Islands",
+        "capital": "Adamstown",
+        "populacao": 46,
+        "area": 47.0
+    },
+    {
+        "nome": "Puerto Rico",
+        "capital": "San Juan",
+        "populacao": 3916632,
+        "area": 9104.0
+    },
+    {
+        "nome": "Palestine",
+        "capital": "None",
+        "populacao": 3800000,
+        "area": 5970.0
+    },
+    {
+        "nome": "Portugal",
+        "capital": "Lisbon",
+        "populacao": 10676000,
+        "area": 92391.0
+    },
+    {
+        "nome": "Palau",
+        "capital": "Melekeok",
+        "populacao": 19907,
+        "area": 458.0
+    },
+    {
+        "nome": "Paraguay",
+        "capital": "Asunci\u00f3n",
+        "populacao": 6375830,
+        "area": 406750.0
+    },
+    {
+        "nome": "Qatar",
+        "capital": "Doha",
+        "populacao": 840926,
+        "area": 11437.0
+    },
+    {
+        "nome": "R\u00e9union",
+        "capital": "Saint-Denis",
+        "populacao": 776948,
+        "area": 2517.0
+    },
+    {
+        "nome": "Romania",
+        "capital": "Bucharest",
+        "populacao": 21959278,
+        "area": 237500.0
+    },
+    {
+        "nome": "Serbia",
+        "capital": "Belgrade",
+        "populacao": 7344847,
+        "area": 88361.0
+    },
+    {
+        "nome": "Russia",
+        "capital": "Moscow",
+        "populacao": 140702000,
+        "area": 17100000.0
+    },
+    {
+        "nome": "Rwanda",
+        "capital": "Kigali",
+        "populacao": 11055976,
+        "area": 26338.0
+    },
+    {
+        "nome": "Saudi Arabia",
+        "capital": "Riyadh",
+        "populacao": 25731776,
+        "area": 1960582.0
+    },
+    {
+        "nome": "Solomon Islands",
+        "capital": "Honiara",
+        "populacao": 559198,
+        "area": 28450.0
+    },
+    {
+        "nome": "Seychelles",
+        "capital": "Victoria",
+        "populacao": 88340,
+        "area": 455.0
+    },
+    {
+        "nome": "Sudan",
+        "capital": "Khartoum",
+        "populacao": 35000000,
+        "area": 1861484.0
+    },
+    {
+        "nome": "Sweden",
+        "capital": "Stockholm",
+        "populacao": 9828655,
+        "area": 449964.0
+    },
+    {
+        "nome": "Singapore",
+        "capital": "Singapore",
+        "populacao": 4701069,
+        "area": 692.7
+    },
+    {
+        "nome": "Saint Helena",
+        "capital": "Jamestown",
+        "populacao": 7460,
+        "area": 410.0
+    },
+    {
+        "nome": "Slovenia",
+        "capital": "Ljubljana",
+        "populacao": 2007000,
+        "area": 20273.0
+    },
+    {
+        "nome": "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "populacao": 2550,
+        "area": 62049.0
+    },
+    {
+        "nome": "Slovakia",
+        "capital": "Bratislava",
+        "populacao": 5455000,
+        "area": 48845.0
+    },
+    {
+        "nome": "Sierra Leone",
+        "capital": "Freetown",
+        "populacao": 5245695,
+        "area": 71740.0
+    },
+    {
+        "nome": "San Marino",
+        "capital": "San Marino",
+        "populacao": 31477,
+        "area": 61.2
+    },
+    {
+        "nome": "Senegal",
+        "capital": "Dakar",
+        "populacao": 12323252,
+        "area": 196190.0
+    },
+    {
+        "nome": "Somalia",
+        "capital": "Mogadishu",
+        "populacao": 10112453,
+        "area": 637657.0
+    },
+    {
+        "nome": "Suriname",
+        "capital": "Paramaribo",
+        "populacao": 492829,
+        "area": 163270.0
+    },
+    {
+        "nome": "South Sudan",
+        "capital": "Juba",
+        "populacao": 8260490,
+        "area": 644329.0
+    },
+    {
+        "nome": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "capital": "S\u00e3o Tom\u00e9",
+        "populacao": 175808,
+        "area": 1001.0
+    },
+    {
+        "nome": "El Salvador",
+        "capital": "San Salvador",
+        "populacao": 6052064,
+        "area": 21040.0
+    },
+    {
+        "nome": "Sint Maarten",
+        "capital": "Philipsburg",
+        "populacao": 37429,
+        "area": 21.0
+    },
+    {
+        "nome": "Syria",
+        "capital": "Damascus",
+        "populacao": 22198110,
+        "area": 185180.0
+    },
+    {
+        "nome": "Swaziland",
+        "capital": "Mbabane",
+        "populacao": 1354051,
+        "area": 17363.0
+    },
+    {
+        "nome": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "populacao": 20556,
+        "area": 430.0
+    },
+    {
+        "nome": "Chad",
+        "capital": "N'Djamena",
+        "populacao": 10543464,
+        "area": 1284000.0
+    },
+    {
+        "nome": "French Southern Territories",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "populacao": 140,
+        "area": 7829.0
+    },
+    {
+        "nome": "Togo",
+        "capital": "Lom\u00e9",
+        "populacao": 6587239,
+        "area": 56785.0
+    },
+    {
+        "nome": "Thailand",
+        "capital": "Bangkok",
+        "populacao": 67089500,
+        "area": 514000.0
+    },
+    {
+        "nome": "Tajikistan",
+        "capital": "Dushanbe",
+        "populacao": 7487489,
+        "area": 143100.0
+    },
+    {
+        "nome": "Tokelau",
+        "capital": "None",
+        "populacao": 1466,
+        "area": 10.0
+    },
+    {
+        "nome": "East Timor",
+        "capital": "Dili",
+        "populacao": 1154625,
+        "area": 15007.0
+    },
+    {
+        "nome": "Turkmenistan",
+        "capital": "Ashgabat",
+        "populacao": 4940916,
+        "area": 488100.0
+    },
+    {
+        "nome": "Tunisia",
+        "capital": "Tunis",
+        "populacao": 10589025,
+        "area": 163610.0
+    },
+    {
+        "nome": "Tonga",
+        "capital": "Nuku'alofa",
+        "populacao": 122580,
+        "area": 748.0
+    },
+    {
+        "nome": "Turkey",
+        "capital": "Ankara",
+        "populacao": 77804122,
+        "area": 780580.0
+    },
+    {
+        "nome": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "populacao": 1228691,
+        "area": 5128.0
+    },
+    {
+        "nome": "Tuvalu",
+        "capital": "Funafuti",
+        "populacao": 10472,
+        "area": 26.0
+    },
+    {
+        "nome": "Taiwan",
+        "capital": "Taipei",
+        "populacao": 22894384,
+        "area": 35980.0
+    },
+    {
+        "nome": "Tanzania",
+        "capital": "Dodoma",
+        "populacao": 41892895,
+        "area": 945087.0
+    },
+    {
+        "nome": "Ukraine",
+        "capital": "Kiev",
+        "populacao": 45415596,
+        "area": 603700.0
+    },
+    {
+        "nome": "Uganda",
+        "capital": "Kampala",
+        "populacao": 33398682,
+        "area": 236040.0
+    },
+    {
+        "nome": "U.S. Minor Outlying Islands",
+        "capital": "None",
+        "populacao": 0,
+        "area": 0.0
+    },
+    {
+        "nome": "United States",
+        "capital": "Washington",
+        "populacao": 310232863,
+        "area": 9629091.0
+    },
+    {
+        "nome": "Uruguay",
+        "capital": "Montevideo",
+        "populacao": 3477000,
+        "area": 176220.0
+    },
+    {
+        "nome": "Uzbekistan",
+        "capital": "Tashkent",
+        "populacao": 27865738,
+        "area": 447400.0
+    },
+    {
+        "nome": "Vatican City",
+        "capital": "Vatican City",
+        "populacao": 921,
+        "area": 0.44
+    },
+    {
+        "nome": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "populacao": 104217,
+        "area": 389.0
+    },
+    {
+        "nome": "Venezuela",
+        "capital": "Caracas",
+        "populacao": 27223228,
+        "area": 912050.0
+    },
+    {
+        "nome": "British Virgin Islands",
+        "capital": "Road Town",
+        "populacao": 21730,
+        "area": 153.0
+    },
+    {
+        "nome": "U.S. Virgin Islands",
+        "capital": "Charlotte Amalie",
+        "populacao": 108708,
+        "area": 352.0
+    },
+    {
+        "nome": "Vietnam",
+        "capital": "Hanoi",
+        "populacao": 89571130,
+        "area": 329560.0
+    },
+    {
+        "nome": "Vanuatu",
+        "capital": "Port Vila",
+        "populacao": 221552,
+        "area": 12200.0
+    },
+    {
+        "nome": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "populacao": 16025,
+        "area": 274.0
+    },
+    {
+        "nome": "Samoa",
+        "capital": "Apia",
+        "populacao": 192001,
+        "area": 2944.0
+    },
+    {
+        "nome": "Kosovo",
+        "capital": "Pristina",
+        "populacao": 1800000,
+        "area": 10908.0
+    },
+    {
+        "nome": "Yemen",
+        "capital": "Sanaa",
+        "populacao": 23495361,
+        "area": 527970.0
+    },
+    {
+        "nome": "Mayotte",
+        "capital": "Mamoudzou",
+        "populacao": 159042,
+        "area": 374.0
+    },
+    {
+        "nome": "South Africa",
+        "capital": "Pretoria",
+        "populacao": 49000000,
+        "area": 1219912.0
+    },
+    {
+        "nome": "Zambia",
+        "capital": "Lusaka",
+        "populacao": 13460305,
+        "area": 752614.0
+    },
+    {
+        "nome": "Zimbabwe",
+        "capital": "Harare",
+        "populacao": 11651858,
+        "area": 390580.0
+    }
+]
