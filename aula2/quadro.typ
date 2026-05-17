@@ -58,6 +58,15 @@ $
   y_c = Q_y / a = (∬_R y d x d y) / a = alpha_(0,1)
 $
 
+
+$
+  x_c = alpha_(1,0) = 1/(6a) sum_(i=1)^n (x_(i-1)y_i - x_i y_(i-1))(x_(i-1) + x_i)
+$
+
+$
+  y_c = alpha_(0,1) = 1/(6a) sum_(i=1)^n (x_(i-1)y_i - x_i y_(i-1))(y_(i-1) + y_i)
+$
+
 Para determinar o momento de inércia em torno do centróide, basta conhecer área e o centróide, pelo teorema dos eixos paralelos:
 
 $
