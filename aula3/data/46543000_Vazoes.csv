@@ -1,16 +1,16 @@
-AgÍncia Nacional de ¡guas - ANA
-SuperintendÍncia de Gest„o da Rede HidrometeorolÛgica-SGH
-Sistema de InformaÁıes HidrolÛgicas - Vers„o WEB
+Ag√™ncia Nacional de √Åguas - ANA
+Superintend√™ncia de Gest√£o da Rede Hidrometeorol√≥gica-SGH
+Sistema de Informa√ß√µes Hidrol√≥gicas - Vers√£o WEB
 Fone: (61) 2109-5242
 E-mail: hidro@ana.gov.br
 
 NivelConsistencia: 1 = Bruto, 2 = Consistido
-MediaDiaria: Indica se a mediÁ„o È mÈdia diaria ou instant‚nea.  0 = N„o, 1 = Sim
-MetodoObtencaoVazoes: 1 = Curva de descarga, 2 = TransferÍncia de vazıes, 3 = Soma de vazıes, 4 = ADCP
-Status: 0 = Branco, 1 = Real, 2 = Estimado, 3 = Duvidoso, 4 = RÈgua Seca
+MediaDiaria: Indica se a medi√ß√£o √© m√©dia diaria ou instant√¢nea.  0 = N√£o, 1 = Sim
+MetodoObtencaoVazoes: 1 = Curva de descarga, 2 = Transfer√™ncia de vaz√µes, 3 = Soma de vaz√µes, 4 = ADCP
+Status: 0 = Branco, 1 = Real, 2 = Estimado, 3 = Duvidoso, 4 = R√©gua Seca
 
-RestriÁıes da consulta:
-CÛdigo da EstaÁ„o:46543000
+Restri√ß√µes da consulta:
+C√≥digo da Esta√ß√£o:46543000
 
 
 EstacaoCodigo;NivelConsistencia;Data;Hora;MediaDiaria;MetodoObtencaoVazoes;Maxima;Minima;Media;DiaMaxima;DiaMinima;MaximaStatus;MinimaStatus;MediaStatus;MediaAnual;MediaAnualStatus;Vazao01;Vazao02;Vazao03;Vazao04;Vazao05;Vazao06;Vazao07;Vazao08;Vazao09;Vazao10;Vazao11;Vazao12;Vazao13;Vazao14;Vazao15;Vazao16;Vazao17;Vazao18;Vazao19;Vazao20;Vazao21;Vazao22;Vazao23;Vazao24;Vazao25;Vazao26;Vazao27;Vazao28;Vazao29;Vazao30;Vazao31;Vazao01Status;Vazao02Status;Vazao03Status;Vazao04Status;Vazao05Status;Vazao06Status;Vazao07Status;Vazao08Status;Vazao09Status;Vazao10Status;Vazao11Status;Vazao12Status;Vazao13Status;Vazao14Status;Vazao15Status;Vazao16Status;Vazao17Status;Vazao18Status;Vazao19Status;Vazao20Status;Vazao21Status;Vazao22Status;Vazao23Status;Vazao24Status;Vazao25Status;Vazao26Status;Vazao27Status;Vazao28Status;Vazao29Status;Vazao30Status;Vazao31Status

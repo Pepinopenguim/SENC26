@@ -1,16 +1,16 @@
-AgÍncia Nacional de ¡guas - ANA
-SuperintendÍncia de Gest„o da Rede HidrometeorolÛgica-SGH
-Sistema de InformaÁıes HidrolÛgicas - Vers„o WEB
+Ag√™ncia Nacional de √Åguas - ANA
+Superintend√™ncia de Gest√£o da Rede Hidrometeorol√≥gica-SGH
+Sistema de Informa√ß√µes Hidrol√≥gicas - Vers√£o WEB
 Fone: (61) 2109-5242
 E-mail: hidro@ana.gov.br
 
 NivelConsistencia: 1 = Bruto, 2 = Consistido
 MedidorVazao: 1 = ADCP (outros modelos), 2 = ADCP RiverPro de 1200 kHz, 3 = ADCP RiverPro de 600 kHz, 4 = ADCP RiverRay de 600 kHz, 5 = ADCP StreamPro, 6 = ADCP Workhorse Rio Grande de 1200 kHz, 7 = ADCP Workhorse Rio Grande de 300 kHz,
 8 = ADCP Workhorse Rio Grande de 600 kHz, 9 = Barco em movimento (moving boat ou smoot), 10 = FlowTracker;11 = Flutuador, 12 = MF Pro;13 = Micromolinete, 14 = Molinete de eixo horizontal, 15 = Molinete de eixo vertical,
-16 = RiverSurveyor = M9, 17 = RiverSurveyor = S5, 18 = VolumÈtrico, 19 = Outros, 20 = N„o especificado
+16 = RiverSurveyor = M9, 17 = RiverSurveyor = S5, 18 = Volum√©trico, 19 = Outros, 20 = N√£o especificado
 
-RestriÁıes da consulta:
-CÛdigo da EstaÁ„o:46543000
+Restri√ß√µes da consulta:
+C√≥digo da Esta√ß√£o:46543000
 
 
 EstacaoCodigo;NivelConsistencia;Data;Hora;NumMedicao;Cota;Vazao;AreaMolhada;Largura;VelMedia;Profundidade;tecnico;medidorvazao
@@ -19,8 +19,8 @@ EstacaoCodigo;NivelConsistencia;Data;Hora;NumMedicao;Cota;Vazao;AreaMolhada;Larg
 46543000;1;14/05/2025;01/01/1900 11:15;1;"27,0";"27,106";"80,75";"32,3";"0,337";"2,5";Anderson Velame e Daniel;16
 46543000;1;24/11/2024;01/01/1900 08:25;1;"55,0";"41,83";"53,64";"22,24";"0,78";"2,41";Anderson Velame;16
 46543000;1;19/10/2024;01/01/1900 11:00;161;"24,0";"20,689";"39,96";"18,37";"0,518";"2,18";Ademi dos Santos;16
-46543000;1;27/09/2024;01/01/1900 12:36;1;"19,0";"24,31";"53,06";"22,35";"0,458";"2,37";Jo„o Cunha;16
-46543000;1;17/09/2024;01/01/1900 12:36;1;"19,0";"22,6";"49,0";"22,25";"0,462";"2,29";Jo„o Cunha;16
+46543000;1;27/09/2024;01/01/1900 12:36;1;"19,0";"24,31";"53,06";"22,35";"0,458";"2,37";Jo√£o Cunha;16
+46543000;1;17/09/2024;01/01/1900 12:36;1;"19,0";"22,6";"49,0";"22,25";"0,462";"2,29";Jo√£o Cunha;16
 46543000;1;27/05/2024;01/01/1900 14:29;1;"24,0";"26,944";"51,69";"22,5";"0,521";"2,3";Anderson Velame;16
 46543000;1;20/04/2024;01/01/1900 10:02;1;"45,0";"44,2";"55,8";"22,09";"0,791";"2,53";Waldo Motta;16
 46543000;1;02/01/2024;01/01/1900 12:22;1;"55,0";"53,992";"62,21";"23,8";"0,867";"2,61";Waldo Motta;16
@@ -28,10 +28,10 @@ EstacaoCodigo;NivelConsistencia;Data;Hora;NumMedicao;Cota;Vazao;AreaMolhada;Larg
 46543000;1;05/12/2023;01/01/1900 13:47;1;"22,0";"23,831";"51,27";"22,08";"0,465";"2,32";Diego de Jesus;4
 46543000;2;30/10/2023;01/01/1900 10:46;1;"30,0";"30,6";"54,4";"24,0";"0,563";"2,26";Waldo Motta;16
 46543000;1;30/10/2023;01/01/1900 10:46;1;"30,0";"30,565";"54,37";"24,02";"0,563";"2,26";Waldo Motta;16
-46543000;2;23/08/2023;01/01/1900 10:10;100;"24,0";"24,9";"51,7";"24,0";"0,482";"2,15";Waldo CÈsar e Fl·vio de Jesus;16
-46543000;1;23/08/2023;01/01/1900 10:10;100;"24,0";"29,896";"51,65";"23,98";"0,482";"2,15";Waldo CÈsar e Fl·vio de Jesus;16
-46543000;2;21/06/2023;01/01/1900 10:18;100;"22,0";"23,9";"51,8";"22,9";"0,462";"2,27";Waldo CÈsar e Jo„o Cunha;16
-46543000;1;21/06/2023;01/01/1900 10:18;100;"22,0";"23,92";"51,82";"22,85";"0,462";"2,268";Waldo CÈsar e Jo„o Cunha;16
+46543000;2;23/08/2023;01/01/1900 10:10;100;"24,0";"24,9";"51,7";"24,0";"0,482";"2,15";Waldo C√©sar e Fl√°vio de Jesus;16
+46543000;1;23/08/2023;01/01/1900 10:10;100;"24,0";"29,896";"51,65";"23,98";"0,482";"2,15";Waldo C√©sar e Fl√°vio de Jesus;16
+46543000;2;21/06/2023;01/01/1900 10:18;100;"22,0";"23,9";"51,8";"22,9";"0,462";"2,27";Waldo C√©sar e Jo√£o Cunha;16
+46543000;1;21/06/2023;01/01/1900 10:18;100;"22,0";"23,92";"51,82";"22,85";"0,462";"2,268";Waldo C√©sar e Jo√£o Cunha;16
 46543000;2;26/04/2023;01/01/1900 10:30;1;"35,0";"37,2";"54,0";"21,9";"0,688";"2,46";Waldo Motta;16
 46543000;1;26/04/2023;01/01/1900 10:30;1;"35,0";"37,182";"54,038";"21,938";"0,688";"2,46";Waldo Motta;16
 46543000;2;12/10/2022;01/01/1900 08:00;1;"20,0";"24,8";"74,0";"31,8";"0,335";"2,32";Nildo Santos;4
@@ -57,10 +57,10 @@ EstacaoCodigo;NivelConsistencia;Data;Hora;NumMedicao;Cota;Vazao;AreaMolhada;Larg
 46543000;1;29/03/2019;01/01/1900 11:22;157;"47,0";"31,6";"72,6";"32,0";"0,435";"2,27";"Nildo, Victor e Alassom";14
 46543000;2;24/01/2019;01/01/1900 09:00;100;"20,0";"22,8";"52,4";"23,1";"0,434";"2,27";Nildo;4
 46543000;1;24/01/2019;01/01/1900 09:00;100;"20,0";"22,8";"52,4";"23,1";"0,434";"2,27";Nildo;4
-46543000;2;05/12/2018;01/01/1900 09:30;156;"44,0";"43,3";"59,2";"22,5";"0,732";"2,64";"Nildo , Rebeca, Fl·vio e Alasson";4
-46543000;1;05/12/2018;01/01/1900 09:30;156;"44,0";"43,3";"59,2";"22,5";"0,732";"2,64";"Nildo , Rebeca, Fl·vio e Alasson";4
-46543000;2;03/12/2018;01/01/1900 09:30;155;"44,0";"41,6";"72,7";"31,8";"0,572";"2,28";"Nildo , Rebeca, Fl·vio e Alasson";4
-46543000;1;03/12/2018;01/01/1900 09:30;155;"44,0";"41,6";"72,7";"31,8";"0,572";"2,28";"Nildo , Rebeca, Fl·vio e Alasson";4
+46543000;2;05/12/2018;01/01/1900 09:30;156;"44,0";"43,3";"59,2";"22,5";"0,732";"2,64";"Nildo , Rebeca, Fl√°vio e Alasson";4
+46543000;1;05/12/2018;01/01/1900 09:30;156;"44,0";"43,3";"59,2";"22,5";"0,732";"2,64";"Nildo , Rebeca, Fl√°vio e Alasson";4
+46543000;2;03/12/2018;01/01/1900 09:30;155;"44,0";"41,6";"72,7";"31,8";"0,572";"2,28";"Nildo , Rebeca, Fl√°vio e Alasson";4
+46543000;1;03/12/2018;01/01/1900 09:30;155;"44,0";"41,6";"72,7";"31,8";"0,572";"2,28";"Nildo , Rebeca, Fl√°vio e Alasson";4
 46543000;2;03/10/2018;01/01/1900 07:26;154;"15,0";"21,1";"52,5";"21,4";"0,401";"2,45";Nildo e Roberto;4
 46543000;1;03/10/2018;01/01/1900 07:26;154;"1,0";"21,1";"52,5";"21,4";"0,401";"2,45";Nildo e Roberto;4
 46543000;2;06/08/2018;01/01/1900 12:12;154;"19,0";"22,0";"46,8";"21,6";"0,47";"2,17";"Ademi, Fernando e Nildo";16
