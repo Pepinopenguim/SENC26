@@ -41,9 +41,31 @@ $
 Lembre-se, a equação dos momentos de inércia é:
 
 $
-  I_x = ∬y^2 d x d y = nu_(0,2) = alpha_(0,2) dot a
+  I_x = ∬_R y^2 d x d y = nu_(0,2) = alpha_(0,2) dot a
 $
 
 $
-  I_y = ∬x^2 d x d y = nu_(2, 0) = alpha_(2,0) dot a
+  I_y = ∬_R x^2 d x d y = nu_(2, 0) = alpha_(2,0) dot a
 $
+
+Para calcular os centroides, basta conhecer os primeiros momentos
+
+$
+  x_c = Q_x / a = (∬_R x d x d y) / a = alpha_(1,0)
+$
+
+$
+  y_c = Q_y / a = (∬_R y d x d y) / a = alpha_(0,1)
+$
+
+Para determinar o momento de inércia em torno do centróide, basta conhecer área e o centróide, pelo teorema dos eixos paralelos:
+
+$
+  I_x = I_(x_c) + A dot y_c ^2
+$
+
+$
+  I_(x_c) = I_x - A dot y_c ^2
+$
+
+E vice-e-versa para $I_y$.
