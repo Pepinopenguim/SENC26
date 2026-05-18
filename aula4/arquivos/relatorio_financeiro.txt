@@ -1,0 +1,1 @@
+Conteúdo simulado para validação de script: relatorio_financeiro.txt
