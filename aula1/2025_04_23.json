@@ -1,0 +1,107 @@
+{
+  "projeto": {
+    "nome": "Duplicação da Rodovia dos Imigrantes - Lote 4",
+    "extensao_total_km": 5.0,
+    "data_levantamento": "2025-02-15",
+    "software_origem": "InfraWorks 2025",
+    "coordenadas_utm": "23S 345678 E 7354210 N"
+  },
+  "segmentos": [
+    {
+      "id": 1,
+      "comprimento_m": 625,
+      "largura_atual_m": 12.0,
+      "largura_futura_m": 22.0,
+      "tipo_solo": "argila",
+      "arvores_por_ha": 45,
+      "densidade_amostras_asfalto_g_cm3": [2.35, 2.42, 2.38, 2.31]
+    },
+    {
+      "id": 2,
+      "comprimento_m": 625,
+      "largura_atual_m": 12.0,
+      "largura_futura_m": 22.0,
+      "tipo_solo": "argila",
+      "arvores_por_ha": 52,
+      "densidade_amostras_asfalto_g_cm3": [2.28, 2.35, 2.40, 2.33]
+    },
+    {
+      "id": 3,
+      "comprimento_m": 625,
+      "largura_atual_m": 10.5,
+      "largura_futura_m": 20.0,
+      "tipo_solo": "areia",
+      "arvores_por_ha": 12,
+      "densidade_amostras_asfalto_g_cm3": [2.45, 2.48, 2.52, 2.44]
+    },
+    {
+      "id": 4,
+      "comprimento_m": 625,
+      "largura_atual_m": 10.5,
+      "largura_futura_m": 20.0,
+      "tipo_solo": "areia",
+      "arvores_por_ha": 18,
+      "densidade_amostras_asfalto_g_cm3": [2.33, 2.38, 2.41, 2.36]
+    },
+    {
+      "id": 5,
+      "comprimento_m": 625,
+      "largura_atual_m": 9.0,
+      "largura_futura_m": 18.0,
+      "tipo_solo": "rocha",
+      "arvores_por_ha": 8,
+      "densidade_amostras_asfalto_g_cm3": [2.40, 2.38, 2.42, 2.39]
+    },
+    {
+      "id": 6,
+      "comprimento_m": 625,
+      "largura_atual_m": 9.0,
+      "largura_futura_m": 18.0,
+      "tipo_solo": "rocha",
+      "arvores_por_ha": 5,
+      "densidade_amostras_asfalto_g_cm3": [2.25, 2.30, 2.35, 2.28]
+    },
+    {
+      "id": 7,
+      "comprimento_m": 625,
+      "largura_atual_m": 11.0,
+      "largura_futura_m": 22.0,
+      "tipo_solo": "argila",
+      "arvores_por_ha": 38,
+      "densidade_amostras_asfalto_g_cm3": [2.36, 2.42, 2.39, 2.44]
+    },
+    {
+      "id": 8,
+      "comprimento_m": 625,
+      "largura_atual_m": 11.0,
+      "largura_futura_m": 22.0,
+      "tipo_solo": "argila",
+      "arvores_por_ha": 42,
+      "densidade_amostras_asfalto_g_cm3": [2.31, 2.34, 2.38, 2.32]
+    }
+  ],
+  "parametros_tecnicos": {
+    "profundidade_corte_m": {
+      "argila": 0.8,
+      "areia": 0.5,
+      "rocha": 0.3
+    },
+    "coeficiente_runoff": {
+      "argila": 0.35,
+      "areia": 0.20,
+      "rocha": 0.45
+    },
+    "intensidade_chuva_mm_h": 90,
+    "capacidade_caminhao_terra_m3": 14,
+    "viagens_max_por_caminhao_por_dia": 8,
+    "custo_concreto_m3": 120.0,
+    "fator_compensacao_ambiental": 2.0,
+    "densidade_asfalto_min_g_cm3": 2.30,
+    "densidade_asfalto_max_g_cm3": 2.50
+  },
+  "simulacao_ambiental": {
+    "taxa_sobrevivencia_mudas_min": 0.70,
+    "taxa_sobrevivencia_mudas_max": 0.95,
+    "seed_randomico": 42
+  }
+}
