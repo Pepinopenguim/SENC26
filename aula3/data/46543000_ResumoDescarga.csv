@@ -14,7 +14,7 @@ Código da Estação:46543000
 
 
 EstacaoCodigo;NivelConsistencia;Data;Hora;NumMedicao;Cota;Vazao;AreaMolhada;Largura;VelMedia;Profundidade;tecnico;medidorvazao
-46543000;1;05/09/2025;01/01/1900 15:05;1;"18,0";"21,632";"48,81";"22,44";"0,443";"2,18";Anderson Velame e Daniel;16
+46543000;1;05/09/2025;01/01/1900 15:05;1;"18,0";null;"48,81";"22,44";"0,443";"2,18";Anderson Velame e Daniel;16
 46543000;1;24/05/2025;01/01/1900 09:45;2;"22,0";"23,87";"48,15";"22,2";"0,496";"2,17";Anderson Velame e Daniel;16
 46543000;1;14/05/2025;01/01/1900 11:15;1;"27,0";"27,106";"80,75";"32,3";"0,337";"2,5";Anderson Velame e Daniel;16
 46543000;1;24/11/2024;01/01/1900 08:25;1;"55,0";"41,83";"53,64";"22,24";"0,78";"2,41";Anderson Velame;16
