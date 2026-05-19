@@ -1,9 +1,9 @@
-
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from pathlib import Path
 import shutil
 from send2trash import send2trash
+
 
 class AutomatizadorArquivosApp:
     def __init__(self, root):
@@ -90,6 +90,16 @@ class AutomatizadorArquivosApp:
 
     # Métodos de Lógica Operacional
     def _listar_arquivos(self):
+        # Passo 1: Limpar listbox (.delete) e a lista interna self.arquivos_encontrados (.clear)
+        
+        # Passo 2: Validar se o caminho de origem existe e se a extensão inicia com ponto (.)
+        
+        # Passo 3: Utilizar o Path(caminho_origem).iterdir() para iterar sobre os arquivos
+        
+        # Passo 4: Filtrar por sufixo, adicionar à lista interna e inserir na interface gráfica (.insert)
+        
+        # Passo 5: Habilitar ou desabilitar os botões de ação baseado na presença de arquivos encontrados
+
         """Mapeia o diretório e popula a Listbox com os caminhos encontrados."""
         self.listbox_arquivos.delete(0, tk.END)
         self.arquivos_encontrados.clear()
@@ -121,6 +131,14 @@ class AutomatizadorArquivosApp:
             messagebox.showinfo("Busca Concluída", "Nenhum arquivo correspondente ao filtro foi encontrado.")
 
     def _executar_movimentacao(self):
+        # Passo 1: Validar se o diretório de destino foi informado
+        
+        # Passo 2: Garantir a criação do diretório de destino caso não exista (.mkdir)
+        
+        # Passo 3: Iterar pela lista self.arquivos_encontrados e aplicar shutil.move() protegido por try-except
+        
+        # Passo 4: Exibir feedback de sucesso (messagebox) e atualizar a listbox chamando self._listar_arquivos()
+
         """Transfere os arquivos listados para o ponto de destino."""
         caminho_destino = self.diretorio_destino.get()
 
@@ -143,6 +161,15 @@ class AutomatizadorArquivosApp:
         self._listar_arquivos()
 
     def _executar_exclusao(self):
+        # Passo 1: Exibir caixa de diálogo de confirmação (messagebox.askyesno) para evitar acidentes
+        
+        # Passo 2: Se confirmado, iterar pela lista de arquivos e aplicar a função send2trash() em cada item
+        
+        # Passo 3: Tratar possíveis exceções de permissão ou arquivo bloqueado com bloco try-except
+        
+        # Passo 4: Atualizar a interface gráfica e emitir relatório de encerramento
+        
+
         """Envia os arquivos detectados para a lixeira do Sistema Operacional de forma segura."""
         confirmacao = messagebox.askyesno(
             "Confirmação de Exclusão", 
