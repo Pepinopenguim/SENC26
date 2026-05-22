@@ -1,8 +1,0 @@
-AULA 1
-    TEMA
-        Criação de Scripts básicos que tomem vantagem do uso da programação em problemas reais.
-    MATÉRIA
-        
-AULA 2
-AULA 3
-AULA 4
